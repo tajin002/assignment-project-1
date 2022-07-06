@@ -33,6 +33,7 @@ body{
     padding: 5px 15px;
     font-size: 20px;
     font-weight: 400;
+    text-decoration: none;
 }
 
 .donate-today{
@@ -118,7 +119,6 @@ body{
     margin-bottom: 5%;
 }
 .food{
-    border: none;
     height: 420px;
     background-color: #EDF5F6;
     border-radius: 4px;
@@ -129,7 +129,6 @@ body{
 }
 .food h2{
     font-size: 40px;
-
 }
 .food p{
     text-align: justify;
@@ -137,7 +136,6 @@ body{
     color: #B7B7B7;
 }
 .shelter{
-    border: none;
     height: 420px;
     background-color: #FFEEEE;
     border-radius: 4px;
@@ -156,7 +154,6 @@ body{
     color: #B7B7B7;
 }
 .education{
-    border: none;
     height: 420px;
     background-color: #FFF4D6;
     border-radius: 4px;
@@ -205,6 +202,7 @@ body{
     font-size: 30px;
     font-weight: 700;
     border-radius: 10px;
+    text-decoration: none;
 }
 .donation-two{
     display: flex;
@@ -256,7 +254,7 @@ body{
     font-size: 20px;
 }
 .submit{
-    padding: 16px 50px;
+    padding: 20px 50px;
     border: none;
     border-radius: 5px;
     background-color: #FF5959;
