@@ -229,3 +229,50 @@ body{
 .donation-two{
     align-items: center;
 }
+.update{
+    text-align: center;
+}
+.update h1{
+    font-size: 60px;
+}
+.update p{
+    font-size: 25px;
+    color: #B7B7B7;
+}
+.email{
+    width: 50%;
+    margin-left: 20%;
+    padding: 5%;
+    margin-bottom: 18%;
+    background-color: #FFF4D6;
+}
+.email-address{
+    width: 25%;
+    padding: 20px 50px;
+    margin-left: 25%;
+    border-radius: 5px;
+    background-color: #B7B7B7;
+    border: 1px solid #B7B7B7;
+    font-size: 20px;
+}
+.submit{
+    padding: 16px 50px;
+    border: none;
+    border-radius: 5px;
+    background-color: #FF5959;
+    color: white;
+    font-size: 20px;
+}
+footer{
+    background-color: #0B0D17;
+    padding: 40px;
+    text-align: center;
+}
+footer h1{
+    color: tomato;
+    font-size: 40px;
+}
+footer p{
+    color: azure;
+    font-size: 30px;
+}
